@@ -1,10 +1,10 @@
+
 <table cellpadding="0" cellspacing="0" style="font-family: Arial, sans-serif; font-size: 13px; color: #000;">
   <tr>
-    <!-- Logo principal -->
+    <!-- Logo principal actualizado -->
     <td style="vertical-align: top; padding-right: 15px;">
-      <img src="https://github.com/enriqueflorian/firma-avanti/blob/main/Principal%20(1).png?raw=true" alt="AvanTI Logo" width="150" style="display: block;">
-      <div style="color:#2c2e83; font-size:10px; padding-top:5px;">
-        Tecnología a la Altura de tus Desafíos<br>
+      <img src="https://github.com/enriqueflorian/firma-avanti/blob/main/Principal%20background%20colmena.png?raw=true" alt="AvanTI Logo" width="180" style="display: block;">
+      <div style="text-align: center; color:#2c2e83; font-size:14px; padding-top:5px;">
         <a href="https://www.avanticsi.com" style="color:#2c2e83; text-decoration:none;">www.avanticsi.com</a>
       </div>
     </td>
@@ -26,7 +26,7 @@
       <table cellpadding="0" cellspacing="0" style="font-size:13px;">
         <tr>
           <td style="padding: 4px;">
-            <img src="https://img.icons8.com/color/24/whatsapp--v1.png" width="20" style="vertical-align: middle;">
+            <img src="https://github.com/enriqueflorian/firma-avanti/blob/main/Whatsapp_Avanti.jpg?raw=true" width="20" style="vertical-align: middle;">
           </td>
           <td>
             <a href="tel:+573006151595" style="color:#2c2e83; text-decoration:none;">(57+) 300 6151595</a>
@@ -34,7 +34,7 @@
         </tr>
         <tr>
           <td style="padding: 4px;">
-            <img src="https://img.icons8.com/fluency/24/filled-message.png" width="20" style="vertical-align: middle;">
+            <img src="https://github.com/enriqueflorian/firma-avanti/blob/main/Correo_Avanti.jpg?raw=true" width="20" style="vertical-align: middle;">
           </td>
           <td>
             <a href="mailto:enrique.florian@avanticsi.com" style="color:#2c2e83; text-decoration:none;">enrique.florian@avanticsi.com</a>
@@ -42,7 +42,13 @@
         </tr>
         <tr>
           <td style="padding: 4px;">
-            <img src="https://img.icons8.com/color/24/linkedin.png" width="20" style="vertical-align: middle;">
+            <img src="https://github.com/enriqueflorian/firma-avanti/blob/main/Linkedin_Avanti.jpg?raw=true" width="20" style="vertical-align: middle;">
           </td>
           <td>
-            <a href="https://www.linkedin.com/in/enrique-florian/" style="color:#2c2e83; text-decoration:none;" target="_blank">linkedin.com/in/enrique-florian_
+            <a href="https://www.linkedin.com/in/enrique-florian/" style="color:#2c2e83; text-decoration:none;" target="_blank">linkedin.com/in/enrique-florian</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
