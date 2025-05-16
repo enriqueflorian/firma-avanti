@@ -1,26 +1,48 @@
-<table cellpadding="0" cellspacing="0" style="font-family: Arial, sans-serif; font-size: 12px; color: #000;">
+<table cellpadding="0" cellspacing="0" style="font-family: Arial, sans-serif; font-size: 13px; color: #000;">
   <tr>
-    <!-- Logo Cell -->
-    <td style="vertical-align: top; padding-right: 10px;">
-      <img src="https://i.imgur.com/2kHdIvY.jpg" alt="AvanTI Logo" width="120" style="display: block;">
+    <!-- Logo principal -->
+    <td style="vertical-align: top; padding-right: 15px;">
+      <img src="https://i.imgur.com/2kHdIvY.jpg" alt="AvanTI Logo" width="150" style="display: block;">
+      <div style="color:#2c2e83; font-size:10px; padding-top:5px;">
+        Tecnología a la Altura de tus Desafíos<br>
+        <a href="https://www.avanticsi.com" style="color:#2c2e83; text-decoration:none;">www.avanticsi.com</a>
+      </div>
     </td>
 
-    <!-- Contact Info Cell -->
-    <td style="vertical-align: top;">
+    <!-- Línea vertical -->
+    <td style="width:2px; background-color:#f05a28;"></td>
+
+    <!-- Contenido a la derecha -->
+    <td style="vertical-align: top; padding-left: 15px;">
+      <!-- Nombre y título -->
       <p style="margin: 0;">
-        <strong style="color: #f05a28;">Enrique Florian Gaviria</strong><br>
-        <span style="color: #2c2e83;">Senior Manager SAP/Salesforce</span>
+        <strong style="color:#f05a28; font-size:14px;">Enrique Florian Gaviria</strong><br>
+        <span style="color:#2c2e83;">Senior Manager SAP/Salesforce</span>
       </p>
-      <hr style="border: 1px solid #f05a28; width: 200px; margin: 6px 0;">
-      <p style="margin: 6px 0;">
-        📞 <a href="tel:+573006151595" style="color: #2c2e83; text-decoration: none;">(57+) 300 6151595</a><br>
-        📧 <a href="mailto:enrique.florian@avanticsi.com" style="color: #2c2e83; text-decoration: none;">enrique.florian@avanticsi.com</a><br>
-        🔗 <a href="https://www.linkedin.com/in/enrique-florian/" style="color: #2c2e83; text-decoration: none;" target="_blank">linkedin.com/in/enrique-florian</a>
-      </p>
-      <p style="margin: 10px 0 0 0;">
-        <strong style="color: #2c2e83;">Avan</strong><strong style="color: #f05a28;">TI</strong> — Tecnología a la Altura de tus Desafíos<br>
-        🌐 <a href="https://www.avanticsi.com" style="color: #2c2e83; text-decoration: none;" target="_blank">www.avanticsi.com</a>
-      </p>
-    </td>
-  </tr>
-</table>
+
+      <hr style="border: 1px solid #f05a28; width: 100%; margin: 6px 0;">
+
+      <!-- Información de contacto -->
+      <table cellpadding="0" cellspacing="0" style="font-size:13px;">
+        <tr>
+          <td style="padding: 4px;">
+            <img src="https://img.icons8.com/color/24/whatsapp--v1.png" width="20" style="vertical-align: middle;">
+          </td>
+          <td>
+            <a href="tel:+573006151595" style="color:#2c2e83; text-decoration:none;">(57+) 300 6151595</a>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 4px;">
+            <img src="https://img.icons8.com/fluency/24/filled-message.png" width="20" style="vertical-align: middle;">
+          </td>
+          <td>
+            <a href="mailto:enrique.florian@avanticsi.com" style="color:#2c2e83; text-decoration:none;">enrique.florian@avanticsi.com</a>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 4px;">
+            <img src="https://img.icons8.com/color/24/linkedin.png" width="20" style="vertical-align: middle;">
+          </td>
+          <td>
+            <a href="https://www.linkedin.com/in/enrique-florian/" style="color:#2c2e83; text-decoration:none;" target="_blank">linkedin.com/in/enrique-florian_
